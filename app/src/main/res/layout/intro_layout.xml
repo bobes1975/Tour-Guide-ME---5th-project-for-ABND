@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_tour1"
+    tools:context="com.example.android.project05_nd_tourguideme.IntroActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/crest"
+            android:layout_width="@dimen/dim90"
+            android:layout_height="@dimen/dim90"
+            android:layout_margin="@dimen/dim16"
+            android:contentDescription="@string/crest"
+            android:src="@drawable/south_moravian_region" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dim16"
+            android:layout_toEndOf="@id/crest"
+            android:gravity="center_horizontal"
+            android:text="@string/south_moravian_region"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="@dimen/text30"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textIntro1"
+            style="@style/textIntro"
+            android:layout_below="@id/crest"
+            android:text="@string/intro_info1" />
+
+        <Button
+            android:id="@+id/buttonStart"
+            style="@style/textIntro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textIntro1"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/south_moravia"
+            android:padding="@dimen/dim16"
+            android:text="@string/title"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="@dimen/text30"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textIntro2"
+            style="@style/textIntro"
+            android:layout_below="@id/buttonStart"
+            android:text="@string/intro_info2"
+
+            />
+
+    </RelativeLayout>
+
+</ScrollView>

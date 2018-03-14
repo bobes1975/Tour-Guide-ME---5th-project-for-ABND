@@ -1,0 +1,236 @@
+<resources>
+
+    <!-- general terms -->
+    <string name="app_name">Tour Guide ME</string>
+    <string name="category_castles">Castles</string>
+    <string name="category_zoo">ZOO Parks</string>
+    <string name="category_caves">Caves</string>
+    <string name="category_architecture">Architecture</string>
+    <string name="category">category</string>
+
+    <string name="tel">tel:</string>
+    <string name="goTo">google.navigation:q=</string>
+    <string name="subject">Visit - Request for Information</string>
+    <string name="crest">crest</string>
+    <string name="south_moravian_region">South Moravian Region</string>
+    <string name="background">background picture</string>
+    <string name="arrow">arrow</string>
+    <string name="mapmaker">mapMaker</string>
+
+    <string name="title">Tour Guide ME!</string>
+    <string name="address">address</string>
+    <string name="place">place</string>
+    <string name="info">info</string>
+    <string name="phone">phone</string>
+    <string name="web">web</string>
+    <string name="email">email</string>
+    <string name="gps">gps</string>
+    <string name="picture">picture</string>
+    <string name="place_picture">place picture</string>
+
+    <string name="intro_info1">The South Moravian Region is located in the South East of the Czech Republic
+        and shares a border with Austria and Slovakia. It is the fourth largest in area and third largest in number
+        of inhabitants among the regions in the Czech Republic. This region is distinguished by its extensive wine growing areas,
+        its wealth of folk songs and folk costumes and its surviving folk traditions.</string>
+
+    <string name="intro_info2">The region offers visitors an extensive range of cultural, natural and technical monuments
+        (ancient and modern), as well as the opportunity of remarkable folk and vineyard tourism. It boasts two important
+        monuments registered as UNESCO World Cultural and Natural Heritage sites</string>
+
+    <!-- Category Names -->
+    <string name="castles">Castles</string>
+    <string name="zoo">ZOO parks</string>
+    <string name="cave">Caves</string>
+    <string name="arch">Architecture</string>
+
+    <!-- namePlace = Castle name -->
+    <string name="nameBitov">Bitov</string>
+    <string name="nameJaromerice">Jaromerice</string>
+    <string name="nameValtice">Lednicce</string>
+    <string name="nameVranov">Vranov nad Diji</string>
+
+    <!-- namePlace = ZOO park name -->
+    <string name="nameVyskov">Dino Park Vyskov</string>
+    <string name="nameJihlava">ZOO Jihlava</string>
+    <string name="nameDvurKralove">ZOO Dvur Kralove nad Laben</string>
+    <string name="nameOstrava">ZOO Ostrava</string>
+
+    <!-- namePlace = Cave name -->
+    <string name="nameMacocha">Machocha Abbys</string>
+    <string name="namePunkva">Punkva caves</string>
+    <string name="nameTurold">The Na Turoldu Cave</string>
+    <string name="nameBozkov">The Bozkov Dolomite Caves</string>
+
+    <!-- namePlace = Architecture name -->
+    <string name="nameTugendhat">Vila Tugendhat</string>
+    <string name="nameJurkovic">Jurkovicova vila</string>
+    <string name="nameLow">Vila Low-Beer</string>
+    <string name="nameStiassni">Vila Stiassni</string>
+
+    <!-- infoPlace = Castles description -->
+    <string name="infoBitov">The castle was founded in the 11th century on the site of the original Great Moravian fortress and it was the first of a chain of castles to protect the southern border of the Přemyslid state. The first written mention of Bítov Castle dates back to 1061. The castle was founded on a spur on the left bank of the Želetavka river. The castle was divided into three parts separated by each other. His appearance did not differ much from the older fortifications. Bítov took a prominent place in the Znojmo principled principality and stopped the process of German colonization to the north.</string>
+    <string name="infoJaromerice">The honourable courtyard echoes with the hoofbeats of arriving horses and carriages carrying ladies in breathtaking dresses accentuating their full feminine curves – a slender waist and full bosom in a frilly neckline. Their escorts are cavaliers in brocade coats and luxuriant wigs. Guests stroll through the French garden, dance or enjoy the delightful tones of period operas. So, step right in and delight in the eternal beauty and fame of Baroque Jaroměřice nad Rokytnou – the Moravian Versailles.</string>
+    <string name="infoValtice">Originally a Gothic castle founded in the 12th century by the bishops of Passau, but in 1530 Valtice became the place of residence for the princely family of Liechtenstein. The size and the beauty of the decorations of the entire castle premises demonstrate the wealth of the family. A number of important architects of the 17th and 18th centuries gave it its current shape – Anton Ospel, Anton Erhard Martinelli and Antonio Beduzzi. In 1996, the castle and the castle park were listed by UNESCO as a World Cultural and Natural Heritage Site.</string>
+    <string name="infoVranov">The chateau lies on the southern border of the Czech state about 110 kilometres from Vienna and is one of the most valuable buildings of the Central European baroque. It was created with the reconstruction of a royal castle first mentioned in 1100. Its current form bears the imprint of the Althanns, who held it for some 100 years from the late 17th century, together with a significant contribution from the imperial architect Johann Bernhard Fischer of Erlach.  The dominium was then gained by the Polish Mniszeks, who brought about an unprecedented flowering of the famed Vranov factory for the production of earthenware and porcelain.
+The chateau is in the western part of Podyjí National Park and a national cultural monument. Visitors can not only take tours of the authentic baroque interiors of the Hall of the Ancestors and the chapel, but can also acquaint themselves with the Vranov Chateau lifestyle from the end of the 18th century and throughout the 19th century.
+</string>
+
+    <!-- infoPlace = ZOO park description -->
+    <string name="infoVyskov">DinoPark is built just outsider the town and it reminds of the real Mesozoic era. DinoPark is a unique theme park where you can see about 70 static and movable life-sized prehistoric saurians. These models are very intricate robotic equipments controlled by an air conditioning and a system of computers. Dinosaurs gathered in groups show probable scenes from their lives more than 65 million years ago.
+There are benches for tired and a small snack-bar for hungering in the park. There is our obliging staff for you in case of any problem. Our passenger transport and all ZOO PARK and DinoPark areas are efficient for parents with baby buggies and for immobile visitors.
+</string>
+    <string name="infoJihlava">There are three pavilions opened for visitors: Exotarium with exhibitions on monkeys and reptiles, the Animals of Prey pavilion and Hacienda esconido pavilion. One of the most favourite expositions is the African Vilage!
+The new entry area was opened in 2006 and includes among others servis for visitors and exhibition for animals. Visitors are welcome to take a rest and refresh in the restaurant, the sweetshop or the bar. The gift shop offers a variety of souvenirs. An unusual children playground with a Petting Zoo attracts the youngest visitors. There is also a small train that children can ride. The visitors can sit down and take a rest on many benches through the Zoo. The information system helps to improve our knowledge of the animal world. (for detailed information see the map of the Zoo)
+</string>
+    <string name="infoDvurKralove">The Dvůr Králové Zoo was founded in 1946 as a small town institution. Its history as a modern zoological garden began in the late 1960s when its focus shifted to the breeding of large African ungulates. The man behind this idea, the zoo’s then-director Josef Vágner, conducted eight large African expeditions between the years 1968 and 1975. During these years, the zoo successively imported 2,045 different African animals, including 915 mammals. As a result, the zoo became the most important breeding centre of African ungulates in the world. Thanks to prudent management and improved breeding experience, the zoo began to serve as a genetic reservoir and a reference breeding centre for similar centres not only in Europe, but to some extent elsewhere in the world as well.</string>
+    <string name="infoOstrava">Ostrava ZOO was founded as Kuncicky Zoo in 1951. In 1996 Ostrava ZOO became member in the European Association of Zoos and Aquaria (EAZA).
+Since 2006, the Ostrava ZOO has been authorised to conduct the ESB (European Studbook) for Common Hippopotamus (Hippopotamus amphibius).
+The main the reasons for the establishment of the Common hippo ESB is because of the decreasing population of hippos in the wild.
+As one of Africa’s best known aquatic icons, it has been listed as threatened for the first time and is now classified as Vulnerable in the Red list of Endangered Species published by IUCN.
+The Ostrava ZOO has many years of experience with keeping and breeding this species. Further, the hippo is in the new heraldry of the ZOO. Moreover, the Ostrava ZOO is currently involved in 40 other EEP (European Endangered Species program) and ESB programs (e.g. for the Siberian tiger, the lion-tailed macaque, the Vietnamese sika deer, and the Diana monkey).
+</string>
+
+    <!-- infoPlace = Cave description -->
+    <string name="infoMacocha">Famous Macocha Abyss is more than 138 m deep and it is the biggest gorge of its kind in the Czech Republic and even in the Central Europe.The upper part of this nature unique is about 174 m long and 76 m wide. There are two platforms for tourists at the edges. The first one is Upper Bridge constructed in 1882. The second one is little bit lower called Lower Bridge. This lower bridge comes from 1899 and it is about 92 m above the bottom of Macocha that you can see from there.</string>
+    <string name="infoPunkva">They are situated in the northern part of the Moravian Karst in the Canyon of Pustý Žleb in the national natural reservation of the Punkva in the protected scenic area called the Moravian Karst. They are the spring up branch of the Punkva hydrographic system, the part of the largest and the longest cave system in the Czech Republic Amateur\' s Cave (its length = 33 km). Punkva Caves consist of the dry part and the water part. Dry parts were discovered gradually in 1909  1914, the water part and its surrounded dry areas were made accessible to tourists in 1920 1933, in some parts discoveries still continue. The total length of all known passages is 4 km with a denivelation of over 187 m. The dry part of the caves has been open to the public already since 1909. The present area of the system has been open to the public since 1933. The boat cruise has been in operation since 1920. The present tourist route is 1250 m long.</string>
+    <string name="infoTurold">Cave is situated near the northern edge of the town of Mikulov in the abandoned quarry under the Turold Hill (385 m a.s.l.). It was discovered during stone quarrying in 1951 close to the previously damaged Turold\'s Cave. This cave is a complex and extraordinarily rugged system of corridors, chambers and domes of seven floors. Its total length is 1,650 m with denivelation of 47 m and together with the Liščídíra Cave it is the largest cave system in the Mesozoic limestones of the Czech Republic with a total length 2,800 m. There are walls sculpted and decorated with a unique “Turold-style” which can be found in no other cave in the Czech Republic. It is the only one cave in the Mesozoic limestones of the Czech Republic.</string>
+    <string name="infoBozkov">Caves are situated on the northern edge of the village of Bozkov on the slope of the plateau called Na Vápenci (485 m a.s.l.). They were formed due to a strong corrosive activity of the underground water in the lentil of calcareous metamorphosed dolomites, in some parts strongly silificated. Caves are permanently flooded with water in the lowest parts, forming underground lakes – the largest in Bohemia. They are also unique with an unusual extent of selective corrosion of walls and ceilings, and with rare forms of these formations. Their total length of all the spaces known today – 1,060 m – and with denivelation of 43 m, the longest dolomite caves in the Czech Republic.</string>
+
+    <!-- infoPlace = Architecture description -->
+    <string name="infoTugendhat">The Villa of Greta and Fritz Tugendhat, designed by the architect Ludwig Mies van der Rohe and built in 1929–1930, is a monument of modern architecture, and is the only example of modern architecture in the Czech Republic inscribed in the list of UNESCO World Cultural Heritage sites.
+Between 2010 and 2012 the Villa Tugendhat underwent renovation and restoration work, during which both the structure and the adjoining gardens were restored to their original appearance following the completion of the Villa in 1930. The interiors have been equipped with exact replicas of the original furnishings.
+The technical equipment for the Villa (the air technology rooms, the boiler room, the engine room for the retractable windows, the so called  ”moth” room) was restored in the basement and is newly accessible to the public as part of the guided tours.
+</string>
+    <string name="infoJurkovic">This crucial piece of Art Nouveau architecture is as significant as Brno’s functionalist villas. Located on a steep slope in a forest above the Svratka River in the municipality of Žabovřesky, it represents a monumental leap in the architect’s work, in which he departs from imitating vernacular wooden houses. The central part of the house is the main element: a hall with a staircase which connects the social area on the ground floor with private rooms on the first floor. When designing his own house, Jurkovič was inspired by the then-modern villas of Joseph Maria Olbrich in Darmstadt and Josef Hoffmann in Vienna.
+In addition to the permanent exhibition Dušan Jurkovič. The Architect and His House, there are other design and architecture exhibitions to explore.
+</string>
+    <string name="infoLow">The Löw-Beer Villa represents a cornerstone of the villa community that started to develop on the slopes of the Černá Pole neighbourhood in the 1860s. In 1903, factory owner Moritz Fuhrmann had a house built based on a design by the Viennese architect Alexander Neumann. After Fuhrmann’s death, the villa was bought by textile tycoon Alfred Löw-Beer in 1913. In 1929, he gave a part of the plot to his daughter Greta to build a family house on; this house would become the Tugendhat Villa.
+The restored Art Nouveau Löw-Beer Villa features an exhibition called The World of the Brno Bourgeoisie Around the Löw-Beers and the Tugendhats. It vividly presents chapters from the history of architecture and the lifestyle of the upper echelons of Brno from the mid-19th century to the early 20th century. Short exhibitions are installed in the Celnice Gallery, which is located in the villa’s garden house.
+</string>
+    <string name="infoStiassni">Designed by the architect Ernst Wiesner for the family of Alfred Stiassni, a Jewish textile manufacturer, this villa ranks among the most significant residential buildings built in the interwar period.
+Wiesner made good use of the steep profile of the building plot. The ground floor is connected with the garden through an enclosed balcony and natural patios located in front of the southern and eastern facades. The family lived in the villa a mere nine years before fleeing to London in 1938 to escape Nazi persecution. The family later settled in Hollywood, California.
+After World War II, during which it was a residence of the Gestapo, the villa served as a venue for major historic events, used by the government for special occasions. Famous guests include Czech president Edvard Beneš, Indonesian president Sukarno, Egyptian president Nasser, and Cuban president Fidel Castro.
+Following extensive renovations, it was reopened to the public in 2014. Today, the building houses Metodické centrum moderní architektury (the National Heritage Institute), a methodology centre for research and the presentation of functionalist architecture in Brno, the Czech Republic, and abroad.
+</string>
+
+    <!-- phonePlace = Castle phone number -->
+    <string name="phoneBitov">+420 515 294 622</string>
+    <string name="phoneJaromerice">00420 568 440 237</string>
+    <string name="phoneValtice">00420 778 743 754</string>
+    <string name="phoneVranov">00420 515 296 215</string>
+
+    <!-- phonePlace = ZOO park phone number -->
+    <string name="phoneVyskov">+420 517 346 356</string>
+    <string name="phoneJihlava">00420 567 573 730</string>
+    <string name="phoneDvurKralove">00420 499 329 515 </string>
+    <string name="phoneOstrava">00420 596 241 269</string>
+
+    <!-- phonePlace = Cave phone number -->
+    <string name="phoneMacocha">+420 516 413 575</string>
+    <string name="phonePunkva">00420 516 418 602 </string>
+    <string name="phoneTurold">00420 519 321 718 </string>
+    <string name="phoneBozkov">00420 481 682 167 </string>
+
+    <!-- phonePlace = Architecture phone number -->
+    <string name="phoneTugendhat">+420 515 511 017</string>
+    <string name="phoneJurkovic">00420 532 169 501</string>
+    <string name="phoneLow">00420 544245010</string>
+    <string name="phoneStiassni">00420 778 545 993</string>
+
+    <!-- webPlace = castle web address -->
+    <string name="webBitov">https://www.hrad-bitov.cz/en</string>
+    <string name="webJaromerice">https://www.zamek-jaromerice.cz/en</string>
+    <string name="webValtice">https://www.zamek-vranov.cz/en</string>
+    <string name="webVranov">https://www.zamek-vranov.cz/en</string>
+
+    <!-- webPlace = ZOO park web address -->
+    <string name="webVyskov">http://vyskov.dinopark.cz/en/uvod-dinopark-zoo-vyskov</string>
+    <string name="webJihlava">http://zoojihlava.cz/en/</string>
+    <string name="webDvurKralove">https://safaripark.cz/en/</string>
+    <string name="webOstrava">http://www.zoo-ostrava.cz/en</string>
+
+    <!-- webPlace = Cave web address -->
+    <string name="webMacocha">http://www.moravskykras.net/en/macocha-abyss.html</string>
+    <string name="webPunkva">https://visit.caves.cz/en/cave/punkevni-jeskyne</string>
+    <string name="webTurold">https://visit.caves.cz/en/cave/jeskyne-na-turoldu</string>
+    <string name="webBozkov">https://visit.caves.cz/en/cave/bozkovske-dolomitove-jeskyne</string>
+
+    <!-- webPlace = Architecture web address -->
+    <string name="webTugendhat">http://www.tugendhat.eu/en/</string>
+    <string name="webJurkovic">http://www.moravska-galerie.cz/jurkovicova-vila?lang=en</string>
+    <string name="webLow">https://www.gotobrno.cz/en/place/low-beer-villa/</string>
+    <string name="webStiassni">https://www.gotobrno.cz/en/place/stiassni-villa/</string>
+
+    <!-- emailPlace = Castle email address -->
+    <string name="emailBitov">bitov@npu.cz</string>
+    <string name="emailJaromerice">jaromerice@npu.cz</string>
+    <string name="emailValtice">www.zamek-valtice.cz/en</string>
+    <string name="emailVranov">vranov@npu.cz</string>
+
+    <!-- emailPlace = ZOO park email address -->
+    <string name="emailVyskov">bitov@npu.cz</string>
+    <string name="emailJihlava">info@zoojihlava.cz</string>
+    <string name="emailDvurKralove">info@zoodvurkralove.cz</string>
+    <string name="emailOstrava">info@zoo-ostrava.cz</string>
+
+    <!-- emailPlace = Cave email address -->
+    <string name="emailMacocha">info@caves.cz</string>
+    <string name="emailPunkva">punkva@caves.cz</string>
+    <string name="emailTurold">turold@caves.cz</string>
+    <string name="emailBozkov">bozkov@caves.cz</string>
+
+    <!-- emailPlace = Architecture email address -->
+    <string name="emailTugendhat">info@tugendhat.eu</string>
+    <string name="emailJurkovic">jurkovic@moravska-galerie.cz</string>
+    <string name="emailLow">vila@vila.muzeumbrnenska.cz</string>
+    <string name="emailStiassni">vila@npu.cz</string>
+
+    <!-- addressPlace = Castle address -->
+    <string name="addressBitov">Státní hrad Bítov, Bítov 1, 671 07 Uherčice</string>
+    <string name="addressJaromerice">Náměstí Míru 1, 675 51 Jaroměřice nad Rokytnou</string>
+    <string name="addressValtice">Státní zámek Valtice, Zámek 1, 691 42 Valtice</string>
+    <string name="addressVranov">Státní zámek, Vranov nad Dyjí, Zámecká 93, 671 03 Vranov nad Dyjí</string>
+
+    <!-- addressPlace = ZOO park address -->
+    <string name="addressVyskov">DinoPark Park ZOO, Cukrovarská 424/9, 682 01, Vyškov</string>
+    <string name="addressJihlava">ZOO Jihlava, Brezinovy sady 10, 586 01 Jihlava</string>
+    <string name="addressDvurKralove">Štefánikova 1029, 544 01 Dvůr Králové nad Labem</string>
+    <string name="addressOstrava">Zoologická zahrada Ostrava, Michálkovická 197, 710 00 Ostrava</string>
+
+    <!-- addressPlace = Cave address -->
+    <string name="addressMacocha">Skalní mlýn, 678 25 Blansko</string>
+    <string name="addressPunkva">678 01 Blansko</string>
+    <string name="addressTurold">U Lomu,  54692 01 Mikulov</string>
+    <string name="addressBozkov">Bozkov 263, 512 13 Bozkov</string>
+
+    <!-- addressPlace = Architecture address -->
+    <string name="addressTugendhat">Černopolní 45, 613 00 Brno</string>
+    <string name="addressJurkovic">Jana Nečase 2, 61600 Brno</string>
+    <string name="addressLow">Drobného 22, 60200 Brno</string>
+    <string name="addressStiassni">Hroznová 14, 60300 Brno</string>
+
+    <!-- quotePlace Castle-->
+    <string name="quoteBitov">Large collection of animals</string>
+    <string name="quoteJaromerice">The Moravian Versailles</string>
+    <string name="quoteValtice">UNESCO World Heritage </string>
+    <string name="quoteVranov">Remarkable secular Baroque building</string>
+
+    <!-- quotePlace ZOO park-->
+    <string name="quoteVyskov">Dozens of life-size models, 4D Cinema</string>
+    <string name="quoteJihlava">African Village - most favourite expositions</string>
+    <string name="quoteDvurKralove">Important breeding centre of African ungulates</string>
+    <string name="quoteOstrava">Second-largest zoo in the Czech Republic</string>
+
+    <!-- quotePlace Cave-->
+    <string name="quoteMacocha">The biggest gorge of its kind</string>
+    <string name="quotePunkva">The largest and the longest cave system in the Czech Republic</string>
+    <string name="quoteTurold">Extraordinarily system of corridors, chambers and domes</string>
+    <string name="quoteBozkov">Descend to the bottom to see the largest underground lake</string>
+
+    <!-- quotePlace Architecture-->
+    <string name="quoteTugendhat">Ludwig Mies van der Rohe\'s monument of modern architecture</string>
+    <string name="quoteJurkovic">An Art Nouveau villa, exceptional even on a global scale</string>
+    <string name="quoteLow">This villa tells the story of early 20th century society</string>
+    <string name="quoteStiassni">A magnificent functionalist villa with a three-hectare garden</string>
+
+</resources>

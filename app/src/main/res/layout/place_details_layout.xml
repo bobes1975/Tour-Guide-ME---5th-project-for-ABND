@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/dim16">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imagePlaceDetail"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dim200"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:contentDescription="@string/place_picture"
+            android:scaleType="centerInside"
+            android:src="@drawable/castle_bitov" />
+
+        <LinearLayout
+            android:id="@+id/buttonsDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imagePlaceDetail"
+            android:layout_marginTop="@dimen/dim8">
+
+            <ImageButton
+                android:id="@+id/phonePlaceDetail"
+                style="@style/imageButton"
+                android:contentDescription="@string/phone"
+                android:src="@drawable/ic_phone_grey600_24dp" />
+
+            <ImageButton
+                android:id="@+id/webPlaceDetail"
+                style="@style/imageButton"
+                android:contentDescription="@string/web"
+                android:src="@drawable/ic_web_grey600_24dp" />
+
+            <ImageButton
+                android:id="@+id/emailPlaceDetail"
+                style="@style/imageButton"
+                android:contentDescription="@string/email"
+                android:src="@drawable/ic_at_grey600_24dp" />
+
+            <ImageButton
+                android:id="@+id/gpsPlaceDetail"
+                style="@style/imageButton"
+                android:contentDescription="@string/email"
+                android:src="@drawable/ic_crosshairs_gps_grey600_24dp" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/namePlaceDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/buttonsDetail"
+            android:layout_marginTop="@dimen/dim8"
+            android:text="@string/nameBitov"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="@dimen/text22"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/mapMaker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/namePlaceDetail"
+            android:layout_marginTop="@dimen/dim8"
+            android:contentDescription="@string/mapmaker"
+            android:src="@drawable/ic_map_marker_grey600_18dp" />
+
+        <TextView
+            android:id="@+id/addressPlaceDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/namePlaceDetail"
+            android:layout_marginTop="@dimen/dim8"
+            android:layout_toEndOf="@+id/mapMaker"
+            android:text="@string/addressBitov"
+            android:textSize="@dimen/text14"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/infoPlaceDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/addressPlaceDetail"
+            android:layout_marginTop="@dimen/dim8"
+            android:text="@string/infoBitov"
+            android:textSize="@dimen/text16" />
+
+    </RelativeLayout>
+</ScrollView>
