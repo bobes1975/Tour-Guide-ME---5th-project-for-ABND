@@ -23,5 +23,6 @@ public class Run1stActivity extends AppCompatActivity {
         //Set the TabLayout for the ViewPager
         TabLayout tabs = findViewById(R.id.tab);
         tabs.setupWithViewPager(viewPager);
+        tabs.setTabMode(TabLayout.MODE_SCROLLABLE);
     }
 }
